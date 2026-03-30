@@ -33,8 +33,9 @@ Ce projet déploie une instance **Nextcloud** complète avec :
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/TON_USERNAME/nextcloud-docker.git
+git clone https://github.com/hamadou99/mon-nextcloud-docker.git
 cd mon-nextcloud
+
 ```
 
 
